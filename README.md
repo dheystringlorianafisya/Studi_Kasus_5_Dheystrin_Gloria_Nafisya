@@ -1,7 +1,10 @@
 # Studi_Kasus_5_Dheystrin_Gloria_Nafisya
 
-Penjelasan kode program
-<br>Pertama saya menggunakan def untuk membuat function, didalam function terdapat parameter (jenis_kamar, lama_menginap)
+NIM Ganjil : Sistem Pemesanan Hotel
+
+<br>Penjelasan kode program
+
+Pertama saya menggunakan def untuk membuat function, didalam function terdapat parameter (jenis_kamar, lama_menginap)
 <br>lalu if untuk membuat percabangan jenis kamar yaitu standard dan deluxe sesuai tarifnya
 <br>selanjutnya membuat variabel baru yaitu total_biaya untuk menghitung total biaya berdasarkan tarif dan lama_menginap
 <br>return total_belanja untuk mengembalikan hasil perhitungan total_belanja dari function agar bisa ditampilkan program
